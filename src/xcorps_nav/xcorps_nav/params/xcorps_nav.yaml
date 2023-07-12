@@ -1,0 +1,22 @@
+xcorps_nav:
+  ros__parameters:
+    dt : 0.1
+    Left_Bottom : [37.4557583, 126.9517448]
+    Right_Bottom : [37.4558121667, 126.9517401667]
+    Left_Top : [37.4556311667, 126.9518098333]
+    Right_Top : [37.4556311667, 126.9518098333]
+    origin : [37.4557583, 126.9517448]
+    wp_set : [37.4556311667, 126.9518098333]
+    tmin : 20.0
+    dmax : 60.0
+    TS_dim : [0.432, 0.152]
+    OS_dim : [0.914, 0.322]
+    ang_lim : [-90, 90] # deg
+    spd_lim : [1.0, 1.2]
+    ref_spd : [1.0]
+    namespace_OS : '/OS'
+    namespace_TS1 : '/TS1'
+    namespace_TS2 : '/TS2'
+    namespace_TS3 : '/TS3'
+    namespace_TS4 : '/TS4'
+    
